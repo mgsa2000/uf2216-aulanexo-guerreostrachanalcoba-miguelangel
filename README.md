@@ -14,3 +14,5 @@ Para localizar una programación, iriamos a la carpeta direccion,dentro a coordi
 
 Búsqueda facetada es una búsqueda usando varios filtros ejemplo amazon.
 busqueda full-text es buscar todo a cholón.
+
+
