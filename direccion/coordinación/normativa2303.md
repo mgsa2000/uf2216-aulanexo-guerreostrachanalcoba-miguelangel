@@ -1,6 +1,6 @@
 
 ---
-codigo: normativa2303.pdf
+codigo: normativa2303.md
 titulo: normativa vigente
 versión:1.0
 fecha_creación: 12/05/2026
